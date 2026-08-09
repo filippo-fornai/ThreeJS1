@@ -14,4 +14,6 @@ html, body {
   background-color: black;
   overflow: hidden;
   position: fixed; /* Questo "inchioda" la pagina per Safari */
+  overscroll-behavior: none;
+  touch-action: none;
 }
