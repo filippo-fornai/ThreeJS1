@@ -1,5 +1,7 @@
 import * as THREE from 'three';
-
+document.addEventListener('touchmove', function (e) {
+  e.preventDefault();
+}, { passive: false });
 
 for(let i = 0;i<10;i++){
     
