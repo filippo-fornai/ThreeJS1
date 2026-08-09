@@ -1,10 +1,9 @@
 #info {
   position: absolute;
-  color: white;
-  top: 0; 
-  left: 0;
+  top: 0; /* Oppure 0, o qualsiasi valore preferisci */
   width: 100%;
   text-align: center;
+  color: white;
   z-index: 100;
 }
 body{
