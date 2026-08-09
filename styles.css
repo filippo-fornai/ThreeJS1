@@ -1,14 +1,14 @@
 #info {
   position: absolute;
   color: white;
-  /* top: 10px; */
+  top: 0; 
+  left: 0;
   width: 100%;
   text-align: center;
   z-index: 100;
-  display:block;
 }
 body{
-  height: 100vh;
+  height: 100dvh;
   background-color: black;
   overflow: hidden;
 }
